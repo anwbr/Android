@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listCategories">
+        <item>Phone</item>
+        <item>Tablet</item>
+        <item>Computer</item>
+        <item>Other</item>
+    </string-array>
+</resources>
